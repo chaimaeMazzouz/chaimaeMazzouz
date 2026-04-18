@@ -4,7 +4,7 @@
 
 # Hi there, I'm Chaimae 👋
 
-**Founder & Software Architect | .NET & Blazor Specialist**
+**Founder & Software Engineer | .NET & Blazor Specialist**
 
 I am the founder of **Digital Navigators**, specializing in the Microsoft ecosystem. I architect scalable SaaS solutions, secure cloud-native applications, and high-performance web platforms with a focus on clean code and modular architecture.
 
